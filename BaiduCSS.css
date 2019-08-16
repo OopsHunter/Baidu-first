@@ -1,19 +1,29 @@
 *{
 	margin: 0;
 	padding:0;
+	box-sizing: border-box;
 }
 .page-header{
+	margin-top: 20px;
+	height: 20px;
+
 	float: right;
 	clear: both;
 }
 .page-header nav a {
-	margin: 0 20px 0 0;
-
+	margin: 0 0 0 20px;
+	text-align: center;
+	font-size: 13px;
+	line-height: 12px;
 }
 .page-header nav a:last-child{
+	width: 40px;
+	line-height: 24px;
 	text-decoration:none;
-	background-color: #FFFFFF;
+	color: #FFFFFF;
+	background-color: #3388FF;
 	margin: 0 2px 0 19px;
+	text-align: center;
 }
 .page-header nav a:not(#MoreProduct){
 	color: #333333;
