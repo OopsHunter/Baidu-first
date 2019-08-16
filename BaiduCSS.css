@@ -28,3 +28,8 @@
 .page-header nav a:not(#MoreProduct){
 	color: #333333;
 }
+.page-mainer .logo-container img {
+	text-align: center;
+	width: 270px;
+	height: 129px;
+}
