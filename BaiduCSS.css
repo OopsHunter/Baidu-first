@@ -29,7 +29,13 @@
 	color: #333333;
 }
 .page-mainer .logo-container img {
-	text-align: center;
+	margin: 0 auto;
 	width: 270px;
 	height: 129px;
+}
+.form-search{
+	font-size: 0;
+}
+.submit-btn{
+	background-color: #3385FF;
 }
